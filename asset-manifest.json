@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.2cce8147.chunk.css",
-    "main.js": "/static/js/main.1befcbd7.chunk.js",
-    "main.js.map": "/static/js/main.1befcbd7.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.c5541365.js",
-    "runtime~main.js.map": "/static/js/runtime~main.c5541365.js.map",
-    "static/js/2.34b4fde6.chunk.js": "/static/js/2.34b4fde6.chunk.js",
-    "static/js/2.34b4fde6.chunk.js.map": "/static/js/2.34b4fde6.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.764f61ec8c91f473dab1e83f0e820778.js": "/precache-manifest.764f61ec8c91f473dab1e83f0e820778.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/GaneshSaiKumar/react-git-page/static/css/main.2cce8147.chunk.css",
+    "main.js": "/GaneshSaiKumar/react-git-page/static/js/main.daf9028f.chunk.js",
+    "main.js.map": "/GaneshSaiKumar/react-git-page/static/js/main.daf9028f.chunk.js.map",
+    "runtime~main.js": "/GaneshSaiKumar/react-git-page/static/js/runtime~main.eb4f5e84.js",
+    "runtime~main.js.map": "/GaneshSaiKumar/react-git-page/static/js/runtime~main.eb4f5e84.js.map",
+    "static/js/2.34b4fde6.chunk.js": "/GaneshSaiKumar/react-git-page/static/js/2.34b4fde6.chunk.js",
+    "static/js/2.34b4fde6.chunk.js.map": "/GaneshSaiKumar/react-git-page/static/js/2.34b4fde6.chunk.js.map",
+    "index.html": "/GaneshSaiKumar/react-git-page/index.html",
+    "precache-manifest.57a35fe99da571649fde357fa11a3ca0.js": "/GaneshSaiKumar/react-git-page/precache-manifest.57a35fe99da571649fde357fa11a3ca0.js",
+    "service-worker.js": "/GaneshSaiKumar/react-git-page/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/GaneshSaiKumar/react-git-page/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/GaneshSaiKumar/react-git-page/static/media/logo.5d5d9eef.svg"
   }
 }
