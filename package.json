@@ -5,9 +5,12 @@
   "home": "https://github.com/GaneshSaiKumar/react-git-page",
   "homepage": "https://meandmyself.netlify.com",
   "dependencies": {
+    "antd": "^3.20.5",
     "gh-pages": "^2.0.1",
+    "node-sass": "^4.12.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-router-dom": "^5.0.1",
     "react-scripts": "3.0.1"
   },
   "scripts": {
